@@ -1,0 +1,31 @@
+{
+    "schemas": [
+        "urn:scim:schemas:core:1.0",
+        "urn:scim:schemas:extension:enterprise:1.0",
+        "urn:scim:schemas:extension:bonusly:1.0:User"
+    ],
+    "id": "551ade522ee09431e5000015",
+    "userName": "raphael+thebenefactor@bonus.ly",
+    "active": false,
+    "emails": [
+        {
+            "value": "raphael+thebenefactor@bonus.ly",
+            "type": "work"
+        }
+    ],
+    "name": {
+        "familyName": "of Bonusly",
+        "givenName": "The Great Benefactor"
+    },
+    "urn:scim:schemas:extension:enterprise:1.0": {
+        "department": "management"
+    },
+    "urn:scim:schemas:extension:bonusly:1.0:User": {
+        "location": "heaven"
+    },
+    "meta": {
+        "created": "2015-03-31 17:50:10 UTC",
+        "lastModified": "2019-02-22 19:47:24 UTC",
+        "location": "/api/scim11/Users/551ade522ee09431e5000015"
+    }
+}
