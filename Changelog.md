@@ -1,5 +1,19 @@
 # Changelog
 
+## React Rewards (RR) v1.0.0: "The New Testing Structure (And Much More)" Edition (November 2020)
+
+### News
+
+- **This November React Rewards will be upgrading to `@testing-library/react`, `@testing-library/jest-dom` and other higher versions of the deprecated `react-testing-library` suite to continue being compatible with other testing libraries** 
+
+### Main
+
+### Documentation updates
+
+### Internals updates
+
+### Project maintenance
+
 ## RBP v4: "The One With Hooks (And Much More)" Edition (April 2019)
 
 ### News

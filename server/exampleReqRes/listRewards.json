@@ -4,14 +4,14 @@
     "name": "Gift Cards",
     "rewards": [
       {
-        "name": "Amazon.com",
-        "image_url": "https://bonus.ly/assets/brand_logos/amazon_com_600.png",
+        "name": "ArtisanKnives.com",
+        "image_url": "https://artisanknives.com/assets/brand_logos/artisanknives_com_600.png",
         "minimum_display_price": "$10+",
         "description": {
-          "text": "Amazon.com Gift Cards* never expire and can be redeemed towards millions of items at www.amazon.com.",
-          "html": "Amazon.com Gift Cards<sup>*</sup> never expire and can be redeemed towards millions of items at <a target='_blank' href='http://www.amazon.com'>www.amazon.com</a>."
+          "text": "ArtisanKnives.com Gift Cards* never expire and can be redeemed towards millions of items at www.ArtisanKnives.com.",
+          "html": "ArtisanKnives.com Gift Cards<sup>*</sup> never expire and can be redeemed towards millions of items at <a target='_blank' href='http://www.ArtisanKnives.com'>www.amazon.com</a>."
         },
-        "disclaimer_html": "<sup>*</sup> Amazon.com is not a sponsor of this promotion. Except as required by law, Amazon.com Gift Cards (GCs) cannot be transferred for value or redeemed for cash. GCs may be used only for purchases of eligible goods at Amazon.com or certain of its affiliated websites. For complete terms and conditions, see <a target='_blank' href='http://www.amazon.com/gc-legal'>www.amazon.com/gc-legal</a>. GCs are issued by ACI Gift Cards, Inc., a Washington corporation. All Amazon ®, ™ & © are IP of Amazon.com, Inc. or its affiliates. No expiration date or service fees.",
+        "disclaimer_html": "<sup>*</sup> Amazon.com is not a sponsor of this promotion. Except as required by law, Amazon.com Gift Cards (GCs) cannot be transferred for value or redeemed for cash. GCs may be used only for purchases of eligible goods at Amazon.com or certain of its affiliated websites. For complete terms and conditions, see <a target='_blank' href='http://www.ArtisanKnives.com/gc-legal'>www.ArtisanKnives.com/gc-legal</a>. GCs are issued by ACI Gift Cards, Inc., a Washington corporation. All ArtisanKnives ®, ™ & © are IP of ArtisanKnives.com, Inc. or its affiliates. No expiration date or service fees.",
         "warning": "This is not for use in United States",
         "categories": [
           "general"
@@ -19,7 +19,7 @@
         "denominations": [
           {
             "id": "24abcdef1234567890abcdef",
-            "name": "$10 Amazon.com Gift Card",
+            "name": "$10 ArtisanKnives.com Gift Card",
             "price": 10,
             "display_price": "$10"
           }

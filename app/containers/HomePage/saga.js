@@ -18,8 +18,8 @@ export function* getRepos() {
   const username = '551ade522ee09431e5000015';
   const catalogCountry = en;
   const requestCountry = en;
-  // const requestURL = `https://private-39bc73-bonusly.apiary-mock.com/api/v1/rewards?catalog_country=${catalogCountry}&request_country=${requestCountry}`;
-  const requestURL = `https://bonus.ly/api/scim11/rewards?catalog_country=${catalogCountry}&request_country=${requestCountry}`;
+  // const requestURL = `https://private-39bc73-artisanknives.apiary-mock.com/api/v1/rewards?catalog_country=${catalogCountry}&request_country=${requestCountry}`;
+  const requestURL = `https://artisanknives.com/api/scim11/rewards?catalog_country=${catalogCountry}&request_country=${requestCountry}`;
   const headers = `
     x-apiary-id: 6d61d80a3968d91a01e5bbc84d6752bd,
   `;

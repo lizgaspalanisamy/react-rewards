@@ -2,25 +2,25 @@
     "schemas": [
         "urn:scim:schemas:core:1.0",
         "urn:scim:schemas:extension:enterprise:1.0",
-        "urn:scim:schemas:extension:bonusly:1.0:User"
+        "urn:scim:schemas:extension:artisanknives:1.0:User"
     ],
     "id": "551ade522ee09431e5000015",
-    "userName": "raphael+thebenefactor@bonus.ly",
+    "userName": "chris+theknifecrafter@artisanknives.com",
     "active": false,
     "emails": [
         {
-            "value": "raphael+thebenefactor@bonus.ly",
+            "value": "chris+theknifecrafter@artisanknives.com",
             "type": "work"
         }
     ],
     "name": {
-        "familyName": "of Bonusly",
-        "givenName": "The Great Benefactor"
+        "familyName": "of artisanknives",
+        "givenName": "The Knife Crafter"
     },
     "urn:scim:schemas:extension:enterprise:1.0": {
         "department": "management"
     },
-    "urn:scim:schemas:extension:bonusly:1.0:User": {
+    "urn:scim:schemas:extension:artisanknives:1.0:User": {
         "location": "heaven"
     },
     "meta": {
